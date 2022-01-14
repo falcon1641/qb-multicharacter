@@ -80,7 +80,7 @@
 }
 
 .char-selected {
-    background-color: #dc143c;
+    background-color: #dc8514;
 }
 
 .disabled {
@@ -132,13 +132,13 @@
 
 #delete {
     display: none;
-    background-color: #dc143c;
+    background-color: #dc8514;
     border-radius: .3vh;
     transition: all 0.2s ease;
 }
 
 #delete:hover {
-    background-color: #eb3434;
+    background-color: #dc8514;
 }
 
 .character-info {
